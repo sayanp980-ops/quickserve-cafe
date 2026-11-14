@@ -1,0 +1,5 @@
+.env
+node_modules/
+server-backup.js
+test-mongodb.js
+npm-test-quickserve/
